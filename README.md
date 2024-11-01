@@ -4,5 +4,5 @@
 - **NIM:** 23051214091  
 - **Kelas:** SI 2023 C  
 
-# 🌐 Link Preview
+# Link Preview
 https://alyyfe-loveconfess.vercel.app
