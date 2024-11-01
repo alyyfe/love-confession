@@ -145,3 +145,38 @@ body {
     font-family: "DM Sans", sans-serif;
     position: relative;
 }
+
+
+/* Responsif */
+@media (max-width: 600px) {
+
+    .card,
+    #cardquote {
+        max-width: 90%;
+
+        padding: 15px;
+    }
+
+    .macos span {
+        width: 10px;
+        height: 10px;
+    }
+
+    .card h2 {
+        font-size: 18px;
+    }
+
+    .card button {
+        padding: 7px 15px;
+        font-size: 0.9rem;
+    }
+
+    .button-container {
+        flex-direction: column;
+    }
+
+    .btn-yes,
+    .btn-no {
+        margin: 5px 0;
+    }
+}
